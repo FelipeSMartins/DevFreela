@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FelipeMartinsMyCloud\\Desktop\\Projects\\DevFreela\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC40634-ECEB-4090-A561-2EFBD9888A80}|DevFreela.Infra\\DevFreela.Infra.csproj|c:\\users\\felipemartinsmycloud\\desktop\\projects\\devfreela\\devfreela.infra\\persistence\\devfreeladbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC40634-ECEB-4090-A561-2EFBD9888A80}|DevFreela.Infra\\DevFreela.Infra.csproj|solutionrelative:devfreela.infra\\persistence\\devfreeladbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC40634-ECEB-4090-A561-2EFBD9888A80}|DevFreela.Infra\\DevFreela.Infra.csproj|c:\\users\\felipemartinsmycloud\\desktop\\projects\\devfreela\\devfreela.infra\\persistence\\configurations\\projectconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC40634-ECEB-4090-A561-2EFBD9888A80}|DevFreela.Infra\\DevFreela.Infra.csproj|solutionrelative:devfreela.infra\\persistence\\configurations\\projectconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC40634-ECEB-4090-A561-2EFBD9888A80}|DevFreela.Infra\\DevFreela.Infra.csproj|c:\\users\\felipemartinsmycloud\\desktop\\projects\\devfreela\\devfreela.infra\\persistence\\configurations\\projectcommentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC40634-ECEB-4090-A561-2EFBD9888A80}|DevFreela.Infra\\DevFreela.Infra.csproj|solutionrelative:devfreela.infra\\persistence\\configurations\\projectcommentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC40634-ECEB-4090-A561-2EFBD9888A80}|DevFreela.Infra\\DevFreela.Infra.csproj|c:\\users\\felipemartinsmycloud\\desktop\\projects\\devfreela\\devfreela.infra\\persistence\\configurations\\skillconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC40634-ECEB-4090-A561-2EFBD9888A80}|DevFreela.Infra\\DevFreela.Infra.csproj|solutionrelative:devfreela.infra\\persistence\\configurations\\skillconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC40634-ECEB-4090-A561-2EFBD9888A80}|DevFreela.Infra\\DevFreela.Infra.csproj|c:\\users\\felipemartinsmycloud\\desktop\\projects\\devfreela\\devfreela.infra\\persistence\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC40634-ECEB-4090-A561-2EFBD9888A80}|DevFreela.Infra\\DevFreela.Infra.csproj|solutionrelative:devfreela.infra\\persistence\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC40634-ECEB-4090-A561-2EFBD9888A80}|DevFreela.Infra\\DevFreela.Infra.csproj|c:\\users\\felipemartinsmycloud\\desktop\\projects\\devfreela\\devfreela.infra\\persistence\\configurations\\userskillconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC40634-ECEB-4090-A561-2EFBD9888A80}|DevFreela.Infra\\DevFreela.Infra.csproj|solutionrelative:devfreela.infra\\persistence\\configurations\\userskillconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBCDC254-60EA-450A-8196-AE140F221846}|DevFreela.Core\\DevFreela.Core.csproj|c:\\users\\felipemartinsmycloud\\desktop\\projects\\devfreela\\devfreela.core\\entities\\projectcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBCDC254-60EA-450A-8196-AE140F221846}|DevFreela.Core\\DevFreela.Core.csproj|solutionrelative:devfreela.core\\entities\\projectcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserSkillConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\FelipeMartinsMyCloud\\Desktop\\Projects\\DevFreela\\DevFreela.Infra\\Persistence\\Configurations\\UserSkillConfiguration.cs",
+              "RelativeDocumentMoniker": "DevFreela.Infra\\Persistence\\Configurations\\UserSkillConfiguration.cs",
+              "ToolTip": "C:\\Users\\FelipeMartinsMyCloud\\Desktop\\Projects\\DevFreela\\DevFreela.Infra\\Persistence\\Configurations\\UserSkillConfiguration.cs",
+              "RelativeToolTip": "DevFreela.Infra\\Persistence\\Configurations\\UserSkillConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T02:46:37.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\FelipeMartinsMyCloud\\Desktop\\Projects\\DevFreela\\DevFreela.Infra\\Persistence\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "DevFreela.Infra\\Persistence\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\FelipeMartinsMyCloud\\Desktop\\Projects\\DevFreela\\DevFreela.Infra\\Persistence\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "DevFreela.Infra\\Persistence\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T02:43:40.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SkillConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\FelipeMartinsMyCloud\\Desktop\\Projects\\DevFreela\\DevFreela.Infra\\Persistence\\Configurations\\SkillConfiguration.cs",
+              "RelativeDocumentMoniker": "DevFreela.Infra\\Persistence\\Configurations\\SkillConfiguration.cs",
+              "ToolTip": "C:\\Users\\FelipeMartinsMyCloud\\Desktop\\Projects\\DevFreela\\DevFreela.Infra\\Persistence\\Configurations\\SkillConfiguration.cs",
+              "RelativeToolTip": "DevFreela.Infra\\Persistence\\Configurations\\SkillConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T02:43:24.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectCommentConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\FelipeMartinsMyCloud\\Desktop\\Projects\\DevFreela\\DevFreela.Infra\\Persistence\\Configurations\\ProjectCommentConfiguration.cs",
+              "RelativeDocumentMoniker": "DevFreela.Infra\\Persistence\\Configurations\\ProjectCommentConfiguration.cs",
+              "ToolTip": "C:\\Users\\FelipeMartinsMyCloud\\Desktop\\Projects\\DevFreela\\DevFreela.Infra\\Persistence\\Configurations\\ProjectCommentConfiguration.cs",
+              "RelativeToolTip": "DevFreela.Infra\\Persistence\\Configurations\\ProjectCommentConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T02:40:51.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\FelipeMartinsMyCloud\\Desktop\\Projects\\DevFreela\\DevFreela.Infra\\Persistence\\Configurations\\ProjectConfigurations.cs",
+              "RelativeDocumentMoniker": "DevFreela.Infra\\Persistence\\Configurations\\ProjectConfigurations.cs",
+              "ToolTip": "C:\\Users\\FelipeMartinsMyCloud\\Desktop\\Projects\\DevFreela\\DevFreela.Infra\\Persistence\\Configurations\\ProjectConfigurations.cs",
+              "RelativeToolTip": "DevFreela.Infra\\Persistence\\Configurations\\ProjectConfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T02:14:25.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DevFreelaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\FelipeMartinsMyCloud\\Desktop\\Projects\\DevFreela\\DevFreela.Infra\\Persistence\\DevFreelaDbContext.cs",
+              "RelativeDocumentMoniker": "DevFreela.Infra\\Persistence\\DevFreelaDbContext.cs",
+              "ToolTip": "C:\\Users\\FelipeMartinsMyCloud\\Desktop\\Projects\\DevFreela\\DevFreela.Infra\\Persistence\\DevFreelaDbContext.cs",
+              "RelativeToolTip": "DevFreela.Infra\\Persistence\\DevFreelaDbContext.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAywCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T01:28:01.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProjectComment.cs",
+              "DocumentMoniker": "C:\\Users\\FelipeMartinsMyCloud\\Desktop\\Projects\\DevFreela\\DevFreela.Core\\Entities\\ProjectComment.cs",
+              "RelativeDocumentMoniker": "DevFreela.Core\\Entities\\ProjectComment.cs",
+              "ToolTip": "C:\\Users\\FelipeMartinsMyCloud\\Desktop\\Projects\\DevFreela\\DevFreela.Core\\Entities\\ProjectComment.cs",
+              "RelativeToolTip": "DevFreela.Core\\Entities\\ProjectComment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T02:05:22.496Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

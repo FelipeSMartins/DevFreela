@@ -1,0 +1,15 @@
+C:\Users\FelipeMartinsMyCloud\Desktop\Projects\DevFreela\DevFreela.Infra\bin\Debug\net8.0\DevFreela.Infra.deps.json
+C:\Users\FelipeMartinsMyCloud\Desktop\Projects\DevFreela\DevFreela.Infra\bin\Debug\net8.0\DevFreela.Infra.dll
+C:\Users\FelipeMartinsMyCloud\Desktop\Projects\DevFreela\DevFreela.Infra\bin\Debug\net8.0\DevFreela.Infra.pdb
+C:\Users\FelipeMartinsMyCloud\Desktop\Projects\DevFreela\DevFreela.Infra\bin\Debug\net8.0\DevFreela.Core.dll
+C:\Users\FelipeMartinsMyCloud\Desktop\Projects\DevFreela\DevFreela.Infra\bin\Debug\net8.0\DevFreela.Core.pdb
+C:\Users\FelipeMartinsMyCloud\Desktop\Projects\DevFreela\DevFreela.Infra\obj\Debug\net8.0\DevFreela.Infra.csproj.AssemblyReference.cache
+C:\Users\FelipeMartinsMyCloud\Desktop\Projects\DevFreela\DevFreela.Infra\obj\Debug\net8.0\DevFreela.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FelipeMartinsMyCloud\Desktop\Projects\DevFreela\DevFreela.Infra\obj\Debug\net8.0\DevFreela.Infra.AssemblyInfoInputs.cache
+C:\Users\FelipeMartinsMyCloud\Desktop\Projects\DevFreela\DevFreela.Infra\obj\Debug\net8.0\DevFreela.Infra.AssemblyInfo.cs
+C:\Users\FelipeMartinsMyCloud\Desktop\Projects\DevFreela\DevFreela.Infra\obj\Debug\net8.0\DevFreela.Infra.csproj.CoreCompileInputs.cache
+C:\Users\FelipeMartinsMyCloud\Desktop\Projects\DevFreela\DevFreela.Infra\obj\Debug\net8.0\DevFreel.07A17230.Up2Date
+C:\Users\FelipeMartinsMyCloud\Desktop\Projects\DevFreela\DevFreela.Infra\obj\Debug\net8.0\DevFreela.Infra.dll
+C:\Users\FelipeMartinsMyCloud\Desktop\Projects\DevFreela\DevFreela.Infra\obj\Debug\net8.0\refint\DevFreela.Infra.dll
+C:\Users\FelipeMartinsMyCloud\Desktop\Projects\DevFreela\DevFreela.Infra\obj\Debug\net8.0\DevFreela.Infra.pdb
+C:\Users\FelipeMartinsMyCloud\Desktop\Projects\DevFreela\DevFreela.Infra\obj\Debug\net8.0\ref\DevFreela.Infra.dll
